@@ -571,6 +571,7 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+<<<<<<< Updated upstream
         },
         {
           "group_by": false,
@@ -583,12 +584,18 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+=======
+>>>>>>> Stashed changes
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
+<<<<<<< Updated upstream
       "name": "",
+=======
+      "name": "Default Editing",
+>>>>>>> Stashed changes
       "sort_asc": true,
       "sort_field": "Reference"
     },
